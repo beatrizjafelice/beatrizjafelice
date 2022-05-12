@@ -14,7 +14,6 @@
 - 🖥️ Apaixonada por programação
 - 📱  Desenvolvimento mobile
 - 📚 Aprendendo novas tecnologias 
-- 🎧 Música + código = vida
 
 
 ---
