@@ -12,9 +12,9 @@
  ---
  
 - 👩‍🎓 Estudante de STEM
-- 🖥️ Apaixonada por programação
+- 🖥️ Apaixonada por dados e por tecnologia
 - 📊 Data Science / Business Intelligence
-- 📚 Aprendendo Microsoft Power BI, Excel, Python...
+- 📚 Aprendendo Microsoft Power BI, Tableau, Excel, Python...
 
 
 ---
