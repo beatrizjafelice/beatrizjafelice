@@ -13,7 +13,7 @@
  
 - 👩‍🎓 STEM student
 - 🖥️ Passionate about data and tech
-- 📊 Data Science / Business Intelligence
+- 📊 Data Science / Machine Learning
 - 📚 Learning Python, R, ML, Statistics, Tableau...
 
 
